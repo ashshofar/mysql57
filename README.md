@@ -23,3 +23,9 @@ Port:
 Mysql: 4036
 PhpMyAdmin: 8081
 ```
+
+Credentials:
+```bash
+mysql root username: root
+mysql root password: secret
+```
